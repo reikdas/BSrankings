@@ -2,31 +2,29 @@
 
 Thanks for contributing to CSrankings! Please read and indicate you agree with **all** these guidelines to getting your pull request accepted. Note that pull requests may take some time to get merged (up to three months, as processing has moved to a quarterly cadence).
 
-**If you find CSrankings useful, [please consider becoming a sponsor](https://github.com/sponsors/csrankings).**
-
 **NOTE:** IF YOU DO NOT FOLLOW THE STEPS BELOW, YOUR COMMIT MAY BE SUMMARILY REJECTED.
 
 1. _Use a reasonable title that explains what the PR corresponds to (as in, not "Update csrankings-x.csv")._
 
-1. _Do not modify any files except `csrankings-[a-z].csv` or (if needed) `country-info.csv`._
+2. _Do not modify any files except `csrankings-[a-z].csv` or (if needed) `country-info.csv`._
 
-1. _Do not use Excel to edit any .csv files; Excel incorrectly tries to
+3. _Do not use Excel to edit any .csv files; Excel incorrectly tries to
 convert some Google Scholar entries to formulas, corrupting the
 database. Use a text editor like emacs or NotePad instead._
 
 1. _Insert new faculty **in alphabetical order** (not at the end) in the appropriate `csrankings-[a-z].csv` files._ **Do not modify `csrankings.csv`, which is auto-generated.**
 
-1. _Check to make sure that you have no spaces after commas, or any missing fields._
+2. _Check to make sure that you have no spaces after commas, or any missing fields._
 
-1. _Check to make sure the home page is correct._
+3. _Check to make sure the home page is correct._
 
-1. _Make sure the Google Scholar IDs are just the alphanumeric identifier (not a URL or with `&hl=en`)._
+4. _Make sure the Google Scholar IDs are just the alphanumeric identifier (not a URL or with `&hl=en`)._
 
-1. _Check to make sure the name corresponds to the DBLP entry (look it up at http://dblp.org)._
+5. _Check to make sure the name corresponds to the DBLP entry (look it up at http://dblp.org)._
 
-1. _If a faculty member is not in a CS department or similar, include a comment explaining how they meet the inclusion criteria (see below)._
+6. _If a faculty member is not in a CS department or similar, include a comment explaining how they meet the inclusion criteria (see below)._
 
-1. _Read and check **all** the boxes below by filling them in with an X._
+7. _Read and check **all** the boxes below by filling them in with an X._
 
 **Inclusion criteria**
 
